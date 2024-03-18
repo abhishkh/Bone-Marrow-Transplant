@@ -1,6 +1,7 @@
 #### BONE MARROW TRANSPLANT
 
 **INTRODUCTION**
+
 Welcome to our Bone Marrow Transplant - an innovative platform connecting donors andpatients. Our user-friendly application facilitates seamless interactions, allowing donors to
 express their willingness to contribute and patients to connect with potential matches. Adminsmanage the network, overseeing enterprises, and ensuring compliance.
 With a total of 9 roles, including donors, patients, and administrators, our system prioritizeseligibility and consent, guaranteeing the safety of all parties. The approval process ensures
@@ -65,3 +66,12 @@ successful transplant.
 **Legal Officer:**
 - Receives work requests for a transplant from the Leukemia Center Coordinator.
 - Reviews the decision and decides to approve or reject it based on legal considerations
+
+
+
+![image](https://github.com/abhishkh/Bone-Marrow-Transplant/assets/144843228/4aa2489e-1c4c-4fe8-8a7f-8b158eb37872)
+
+
+![image](https://github.com/abhishkh/Bone-Marrow-Transplant/assets/144843228/9cd98006-cab4-45c0-9601-f009e1c01469)
+
+
