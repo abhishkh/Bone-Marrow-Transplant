@@ -25,33 +25,43 @@ Organizations Included:
 6. Laboratory Organization
 
 **ROLES:**
+
 **Admin**
 - Manages networks
 - Chooses a network
 - Creates enterprises and credentials for each Enterprise Admin.
+  
 **Donor**
 - Registers to donate Bone Marrow to the Bone Marrow Bank.
+  
 **Patient**
 - Registers to seek Bone Marrow Donation and Cancer Treatment
 - Signs consent for transplant and treatment.
+  
 **Doctor**
 - Performs treatment on the receiver patient.
 - Conducts the Bone Marrow Transplant.
+  
 **Hospital Coordinator**
 - Assigns the donor to the respective Hospital.
+  
 **Technician**
 - Performs appropriate medical tests in the laboratory.
 - Ensures the medical history of the donor and receiver coincides, verifying eligibility for a
 successful transplant.
+
 **Health Resource Service Officer**
 - Receives work requests for Bone Marrow Donation.
 - Checks eligibility of donor requests and approves or rejects accordingly.
+  
 **Bone Marrow Facility Coordinator:**
 - Receives work requests from patient consent for transplant.
 - Checks inventory to verify HLA Type and Availability for the transplant procedure to progress.
+  
 **Leukemia Center Coordinator:**
 - Receives work requests for curing Cancer.
 - Checks eligibility for treatment based on the patient's diagnosis.
+  
 **Legal Officer:**
 - Receives work requests for a transplant from the Leukemia Center Coordinator.
 - Reviews the decision and decides to approve or reject it based on legal considerations
